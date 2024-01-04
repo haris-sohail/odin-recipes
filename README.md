@@ -1,2 +1,2 @@
 # odin-recipes
-This website showcases different recipes for the famous Indian sub-continent dish Biryani.
+This website showcases different rice recipes that are loved in Pakistan.
