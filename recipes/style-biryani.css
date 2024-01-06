@@ -19,3 +19,8 @@
 .desc {
     text-align: justify;
 }
+
+.steps{
+    font-weight: 700;
+    font-family: sans-serif;
+}
