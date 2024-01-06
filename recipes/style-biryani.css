@@ -4,8 +4,12 @@
     color: white;
 }
 
-.sub-heading{
+.sub-heading {
     text-align: center;
     background-color: rgb(168, 175, 255);
     color: white;
+}
+
+.desc {
+    text-align: justify;
 }
