@@ -1,0 +1,26 @@
+* {
+    font-size: 20px;
+}
+
+.heading1 {
+    text-align: center;
+    background-color: rgb(255, 174, 124);
+    color: white;
+    font-size: 30px;
+}
+
+.sub-heading {
+    text-align: center;
+    background-color: rgb(168, 175, 255);
+    color: white;
+    font-size: 25px;
+}
+
+.desc {
+    text-align: justify;
+}
+
+.steps{
+    font-weight: 700;
+    font-family: sans-serif;
+}
