@@ -28,6 +28,12 @@ li{
     background-color: rgb(219, 228, 231);
     margin: 8px;
     text-align: center;
+    
+}
+
+a{
+    display: inline-block;
+    width: 100%;
     padding-top: 8px;
     padding-bottom: 8px;
 }
