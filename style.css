@@ -26,9 +26,8 @@ body{
 
 li{
     background-color: rgb(219, 228, 231);
-    margin: 8px;
+    margin: 16px 8px;
     text-align: center;
-    
 }
 
 a{
@@ -36,4 +35,8 @@ a{
     width: 100%;
     padding-top: 8px;
     padding-bottom: 8px;
+}
+
+a:hover{
+    background-color: rgb(168, 175, 255);
 }
