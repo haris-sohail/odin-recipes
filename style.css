@@ -16,9 +16,15 @@ body{
 }
 
 .list{
+    display: inline-block;
     background-color: white;
     width: 600px;
     margin: 0 auto;
     list-style-type: none;
     padding-left: 0;
+}
+
+li{
+    background-color: rgb(219, 228, 231);
+    margin: 8px;
 }
