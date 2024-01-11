@@ -17,7 +17,7 @@ body{
 .list{
     margin-top: 50px;
     display: inline-block;
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(255, 255, 255);
     border-radius: 5px;
     width: 100%;
     list-style-type: none;
